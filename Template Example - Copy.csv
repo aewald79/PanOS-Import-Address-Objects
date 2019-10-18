@@ -1,0 +1,48 @@
+Name,Location,Type,Address,Tags,Group
+ex-Site24x7,,FQDN,site24x7.enduserexp.com,Site24x7,Site24x7
+ex-Site24x7-Address California-1,,IP Netmask,72.5.230.111/32,Site24x7,Site24x7
+ex-Site24x7-Address California-10,,IP Netmask,104.236.141.173/32,Site24x7,Site24x7
+ex-Site24x7-Address California-11,,IP Netmask,104.238.181.78/32,Site24x7,Site24x7
+ex-Site24x7-Address California-12,,IP Netmask,45.63.87.133/32,Site24x7,Site24x7
+ex-Site24x7-Address California-13,,IP Netmask,45.79.67.12/32,Site24x7,Site24x7
+ex-Site24x7-Address California-14,,IP Netmask,138.68.2.184/32,Site24x7,Site24x7
+ex-Site24x7-Address California-15,,IP Netmask,45.79.102.189/32,Site24x7,Site24x7
+ex-Site24x7-Address California-16,,IP Netmask,45.33.110.8/32,Site24x7,Site24x7
+ex-Site24x7-Address California-17,,IP Netmask,45.79.71.211/32,Site24x7,Site24x7
+ex-Site24x7-Address California-18,,IP Netmask,45.79.98.201/32,Site24x7,Site24x7
+ex-Site24x7-Address California-19,,IP Netmask,165.254.168.111/32,Site24x7,Site24x7
+ex-Site24x7-Address California-2,,IP Netmask,74.207.251.164/32,Site24x7,Site24x7
+ex-Site24x7-Address California-20,,IP Netmask,72.5.230.65/32,Site24x7,Site24x7
+ex-Site24x7-Address California-21,,IP Netmask,173.255.252.4/32,Site24x7,Site24x7
+ex-Site24x7-Address California-22,,IP Netmask,45.63.84.131/32,Site24x7,Site24x7
+ex-Site24x7-Address California-23,,IP Netmask,45.63.88.36/32,Site24x7,Site24x7
+ex-Site24x7-Address California-24,,IP Netmask,192.81.129.136/32,Site24x7,Site24x7
+ex-Site24x7-Address California-25,,IP Netmask,96.126.102.94/32,Site24x7,Site24x7
+ex-Site24x7-Address California-26,,IP Netmask,45.63.84.88/32,Site24x7,Site24x7
+ex-Site24x7-Address California-27,,IP Netmask,45.63.93.3/32,Site24x7,Site24x7
+ex-Site24x7-Address California-28,,IP Netmask,45.63.84.88/32,Site24x7,Site24x7
+ex-Site24x7-Address California-3,,IP Netmask,159.203.200.206/32,Site24x7,Site24x7
+ex-Site24x7-Address California-4,,IP Netmask,159.203.200.222/32,Site24x7,Site24x7
+ex-Site24x7-Address California-5,,IP Netmask,104.238.181.138/32,Site24x7,Site24x7
+ex-Site24x7-Address California-6,,IP Netmask,104.207.150.184/32,Site24x7,Site24x7
+ex-Site24x7-Address California-7,,IP Netmask,138.68.2.176/32,Site24x7,Site24x7
+ex-Site24x7-Address California-8,,IP Netmask,45.33.33.28/32,Site24x7,Site24x7
+ex-Site24x7-Address California-9,,IP Netmask,45.55.24.175/32,Site24x7,Site24x7
+ex-Site24x7-Address Chicago-1,,IP Netmask,23.83.77.221/32,Site24x7,Site24x7
+ex-Site24x7-Address Chicago-2,,IP Netmask,104.207.142.102/32,Site24x7,Site24x7
+ex-Site24x7-Address Chicago-3,,IP Netmask,209.50.49.76/32,Site24x7,Site24x7
+ex-Site24x7-Address Chicago-4,,IP Netmask,108.61.203.16/32,Site24x7,Site24x7
+ex-Site24x7-Address Chicago-5,,IP Netmask,173.232.228.20/32,Site24x7,Site24x7
+ex-Site24x7-Address Chicago-6,,IP Netmask,209.50.50.39/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-1,,IP Netmask,104.236.114.81/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-10,,IP Netmask,45.76.0.57/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-11,,IP Netmask,104.140.247.140/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-12,,IP Netmask,45.58.34.212/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-2,,IP Netmask,162.243.75.49/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-3,,IP Netmask,104.236.53.140/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-4,,IP Netmask,162.243.55.64/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-5,,IP Netmask,104.140.246.165/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-6,,IP Netmask,104.236.16.22/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-7,,IP Netmask,192.241.175.194/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-8,,IP Netmask,192.34.60.107/32,Site24x7,Site24x7
+ex-Site24x7-Address New York-9,,IP Netmask,198.211.100.169/32,Site24x7,Site24x7

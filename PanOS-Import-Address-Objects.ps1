@@ -15,6 +15,8 @@ $Data = Import-Csv -Path $FileBrowser.FileName
 
 Out-File -FilePath .\Output.txt
 
+$AddressGroup = @{}
+
 foreach( $AddressObject in $Data ) {
     if ($AddressObject.Tags) {
         $Output = "set address " + '"' + $AddressObject.Name + '" ' + $AddressObject.Type + " " + $AddressObject.Address + " tag " +  $AddressObject.Tags
@@ -24,4 +26,17 @@ foreach( $AddressObject in $Data ) {
         $Output = "set address " + '"' + $AddressObject.Name + '" ' + $AddressObject.Type + " " + $AddressObject.Address 
         $Output | Out-File -FilePath .\Output.txt -Append  
     }
+
 }
+
+$GroupArray = @()
+foreach($GroupName in $AddressObject.Group ){
+    $GroupArray += $GroupName
+}
+$GroupArray = $GroupArray | Get-Unique
+
+foreach ($G in $GroupArray) {
+    $AddressGroup.add($G)
+}
+
+foreach ($i in $AddressGroup) { Write-Host $i } 
